@@ -11,3 +11,4 @@ class UI1 {
         UI1 ui1 = new UI1();
         ui1.display();
     }
+}
