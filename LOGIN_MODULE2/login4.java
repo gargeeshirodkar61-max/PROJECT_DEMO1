@@ -1,4 +1,4 @@
-package PROJECT_DEMO1.LOGIN_MODULE2;
+package LOGIN_MODULE2;
 
 public class login4 {
     public static void main(String[]args){
